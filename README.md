@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
