@@ -21,6 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## Array
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
