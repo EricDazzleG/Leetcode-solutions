@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1927-sum-game](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -90,8 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
