@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0119-pascals-triangle-ii](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0238-product-of-array-except-self](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1927-sum-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
