@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0119-pascals-triangle-ii](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
