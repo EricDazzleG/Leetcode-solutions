@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -132,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
