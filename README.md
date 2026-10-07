@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
