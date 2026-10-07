@@ -3,7 +3,7 @@ public:
     bool canfinish(vector<int>& piles,int mid, int h){
         int time =0;
         for(int x: piles){
-            time+=(x+mid-1)/mid;
+            time+=ceil((double)x/mid);
         }
         return time<=h;
     }
