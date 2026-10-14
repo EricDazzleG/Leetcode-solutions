@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -161,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
