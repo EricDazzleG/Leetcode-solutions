@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -146,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0853-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
