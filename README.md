@@ -187,4 +187,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
