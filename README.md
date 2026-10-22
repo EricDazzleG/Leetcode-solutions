@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0295-find-median-from-data-stream](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0853-car-fleet](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0853-car-fleet) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/EricDazzleG/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
